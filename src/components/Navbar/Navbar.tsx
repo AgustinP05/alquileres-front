@@ -41,7 +41,7 @@ export function Navbar(props: NavbarProps) {
                                 {name}
                             </Link>
                         ))}
-                        <Link href="/login" className="px-3 py-2 text-white rounded-lg bg-secondary hover:bg-black">Login</Link>
+                        {/* <Link href="/login" className="px-3 py-2 text-white rounded-lg bg-secondary hover:bg-black">Login</Link> */}
                     </div>
                 </motion.nav>
             ):(

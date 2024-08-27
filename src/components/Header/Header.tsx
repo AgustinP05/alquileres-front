@@ -25,9 +25,9 @@ export function Header() {
                         <BsTelephone/>
                         <span className='hidden md:block'>+54 9 11 1234-5678</span>
                     </Link>
-                    <Link href="/login" className='px-3 py-2 text-white rounded-lg bg-secondary hover:bg-black'>
+                    {/* <Link href="/login" className='px-3 py-2 text-white rounded-lg bg-secondary hover:bg-black'>
                         Login
-                    </Link>
+                    </Link> */}
                 </div>
             </div>
         </div>

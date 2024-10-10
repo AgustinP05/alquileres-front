@@ -4,8 +4,8 @@ export const housesData = [
     name: "Valencia",
     image: "house5.jpg",
     position: {
-      lat: 39.46975,
-      lng: -0.37739,
+      lat: -34.36975,
+      lng: -58.57739,
     },
   },
   {
@@ -13,8 +13,8 @@ export const housesData = [
     name: "Madrid",
     image: "house2.jpg",
     position: {
-      lat: 40.4165,
-      lng: -3.70256,
+      lat: -34.42975,
+      lng: -58.57,
     },
   },
   {
@@ -22,8 +22,8 @@ export const housesData = [
     name: "Vigo",
     image: "house8.jpg",
     position: {
-      lat: 42.23282,
-      lng: -8.72264,
+      lat: -34.38975,
+      lng: -58.54739,
     },
   },
   {
@@ -31,8 +31,8 @@ export const housesData = [
     name: "Sevilla",
     image: "house3.jpg",
     position: {
-      lat: 37.38283,
-      lng: -5.97317,
+      lat: -34.46975,
+      lng: -58.57739,
     },
   },
   {
@@ -40,8 +40,8 @@ export const housesData = [
     name: "Barcelona",
     image: "house1.jpg",
     position: {
-      lat: 41.41803,
-      lng: 2.18596,
+      lat: -34.46975,
+      lng: -58.37739,
     },
   },
   {
@@ -49,8 +49,8 @@ export const housesData = [
     name: "Pamplona",
     image: "house7.jpg",
     position: {
-      lat: 42.81687,
-      lng: -1.64323,
+      lat: -34.46975,
+      lng: -58.37739,
     },
   },
   {
@@ -58,8 +58,8 @@ export const housesData = [
     name: "Cuenca",
     image: "house6.jpg",
     position: {
-      lat: 40.06667,
-      lng: -2.13333,
+      lat: -34.46975,
+      lng: -58.37739,
     },
   },
   {
@@ -67,8 +67,8 @@ export const housesData = [
     name: "Ibiza",
     image: "house9.jpg",
     position: {
-      lat: 38.90883,
-      lng: 1.43296,
+      lat: -34.46975,
+      lng: -58.37739,
     },
   },
   {
@@ -76,8 +76,8 @@ export const housesData = [
     name: "Salamanca",
     image: "house8.jpg",
     position: {
-      lat: 42.60003,
-      lng: -5.57032,
+      lat: -34.46975,
+      lng: -58.37739,
     },
   },
   {
@@ -85,8 +85,8 @@ export const housesData = [
     name: "Cáceres",
     image: "house8.jpg",
     position: {
-      lat: 39.47649,
-      lng: -6.37224,
+      lat: -34.46975,
+      lng: -58.37739,
     },
   },
   {
@@ -94,8 +94,8 @@ export const housesData = [
     name: "Moraleja",
     image: "house4.jpg",
     position: {
-      lat: 40.06682,
-      lng: -6.65983,
+      lat: -34.46975,
+      lng: -58.37739,
     },
   },
   {
@@ -103,8 +103,8 @@ export const housesData = [
     name: "Benavente",
     image: "house1.jpg",
     position: {
-      lat: 42.00249,
-      lng: -5.67826,
+      lat: -34.46975,
+      lng: -58.37739,
     },
   },
   {
@@ -112,8 +112,8 @@ export const housesData = [
     name: "Granada",
     image: "house2.jpg",
     position: {
-      lat: 38.01328,
-      lng: -3.3705,
+      lat: -34.46975,
+      lng: -58.37739,
     },
   },
 ];
